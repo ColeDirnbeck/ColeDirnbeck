@@ -5,6 +5,16 @@ I have experience with C, C++, Python, and SQL. Additionally, I am learning and 
 
 Inside this repository, I have several projects that I completed in the last 2 years. The Python Projects are about stocks and data analysis, and the C++ project is a "Pig" dice game. Please check them out!
 
+[PROJECTS]
+
+Project 0 -- Pig Dice Game (C++)
+
+Project 1 -- Technical Analysis of Stocks and creating Candlestick graphs on stocks (Python)
+
+Project 2 -- Discounted Cash Flow Model (Python)
+
+Project 3 -- Black Scholes Model (Python)
+
 Thank you,
 
 Cole Dirnbeck
@@ -12,6 +22,7 @@ Cole Dirnbeck
 [CONTACT]
 
 coledirnbeck1@gmail.com (personal)
+
 tur97019@temple.edu     (school)
 
 (610) - 810 - 7534      (mobile)   Please leave a voicemail if I can't be reached.
